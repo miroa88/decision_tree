@@ -1,9 +1,9 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Miro Abdalian
 # FILENAME: title of the source file
 # SPECIFICATION: description of the program
 # FOR: CS 4210- Assignment #5
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 30 min
 # -----------------------------------------------------------*/
 
 import pandas as pd
